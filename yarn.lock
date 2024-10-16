@@ -79,10 +79,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@types/cli-progress@^3.11.0":
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/@types/cli-progress/-/cli-progress-3.11.0.tgz#ec79df99b26757c3d1c7170af8422e0fc95eef7e"
-  integrity sha512-XhXhBv1R/q2ahF3BM7qT5HLzJNlIL0wbcGyZVjqOTqAybAnsLisd7gy1UCyIqpL+5Iv6XhlSyzjLCnI2sIdbCg==
+"@types/cli-progress@^3.11.6":
+  version "3.11.6"
+  resolved "https://registry.yarnpkg.com/@types/cli-progress/-/cli-progress-3.11.6.tgz#94b334ebe4190f710e51c1bf9b4fedb681fa9e45"
+  integrity sha512-cE3+jb9WRlu+uOSAugewNpITJDt1VF8dHOopPO4IABFc3SXYL5WE/+PTz/FCdZRRfIujiWW3n3aMbv1eIGVRWA==
   dependencies:
     "@types/node" "*"
 
